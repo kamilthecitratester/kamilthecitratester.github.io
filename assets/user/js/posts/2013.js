@@ -1,0 +1,5 @@
+var posts2017 = [
+{"is_played":1,"spoiler":"test","subtype_class":"post-subtype-label-diary","mii":"like","aid":"6437256809321467370","body":"Test Post","created_at":"16/07/2017 11:36","subtype":"Journal de jeu","ss":1,"title":"14866558073098263250","id":"AYMHAAADAAADV44JjIFm3g","empathy_count":"3"},
+{"is_played":1,"spoiler":"Révélations","subtype_class":"post-subtype-label-diary","mii":"like","aid":"6437256809314820096","body":"Hershel's parents :)","created_at":"06/07/2017 22:42","subtype":"Journal de jeu","ss":1,"title":"14866558073098263250","id":"AYMHAAADAAADV44Getm5Ag","empathy_count":"4"},
+{"is_played":1,"spoiler":"Révélations","subtype_class":"post-subtype-label-diary","mii":"like","aid":"6437256809272442010","body":"All teensies saved, all creatures unlocked, all level 100% completed... But how do you get 1 million lums? Do I really have to do that many daily/weekly challenges?","created_at":"01/05/2017 14:20","subtype":"Journal de jeu","ss":1,"title":"14866558073026188450","id":"AYMHAAADAAB2V0gQKSQxCQ"},
+]
